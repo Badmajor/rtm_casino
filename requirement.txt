@@ -1,1 +1,7 @@
-aiogram==3.0.0b2
+requests~=2.25.1
+PyMySQL~=1.0.2
+config~=0.5.0.post0
+aiogram~=3.0.0b2
+asyncio~=3.4.3
+environs~=9.3.3
+cachetools~=4.2.4
